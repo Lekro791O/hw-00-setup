@@ -2,5 +2,6 @@
 #include <iostream>
 
 int main() {
-    std::cout<<"Hello, world!";    // Write yout code here
+    std::cout<<"Hello, world!";    
+    // Write yout code here
 }
